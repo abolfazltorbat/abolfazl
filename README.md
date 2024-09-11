@@ -32,7 +32,7 @@ Project Structure
 
 Usage
 1. Clone the repository
-  git clone https://github.com/your-username/mri-brain-classification.git
+  git clone https://github.com/abolfazltorbat/mri-brain-classification.git
   cd mri-brain-classification
 
 2. Install Dependencies

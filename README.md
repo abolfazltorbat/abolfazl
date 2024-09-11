@@ -1,8 +1,11 @@
 MRI Brain Image Classification with Pretrained 3D CNN Model
 Overview
 This project performs binary classification of MRI brain images to distinguish between normal and abnormal cases using deep learning. The dataset consists of 3D MRI brain images in DICOM format, and the task is approached using both a pretrained 3D CNN model and a custom 2D CNN.
+![image](https://github.com/user-attachments/assets/5d366d3d-3375-4d73-b5d8-f1199bcb4374)
+
 
 The code is designed to allow flexibility in selecting either a pretrained 3D CNN (based on the 3D ResNet architecture) or a custom 2D CNN for binary classification. It also includes functionality for handling 3D medical images and augmentations, class balancing, and early stopping during training.
+![image](https://github.com/user-attachments/assets/bccd9a46-db10-4d62-9674-d6da496c2e68)
 
 Features
 Pretrained 3D CNN Model (ResNet-based): This model is used for 3D MRI volumes, fine-tuned for binary classification.
